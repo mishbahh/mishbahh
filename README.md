@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mishbah</h1>
-<h3 align="center">I’m live in Jakarta</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishbahh&label=Profile%20views&color=0e75b6&style=flat" alt="mishbahh" /> </p>
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🔭 I’m currently working on **exploring the IT consulting universe, mostly by hunting down where errors are hiding. For now, my role is like a junior detective in training—focusing on small cases while using Java Spring Boot as my magnifying glass!"**
 
