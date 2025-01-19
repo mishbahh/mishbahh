@@ -4,15 +4,15 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🔭 I’m currently working on **exploring the IT consulting universe, mostly by hunting down where errors are hiding. For now, my role is like a junior detective in training—focusing on small cases while using Java Spring Boot as my magnifying glass"**
+- 🔭 I’m currently working on **exploring the IT consulting universe, mostly by hunting down where errors are hiding. For now, my role is like a junior detective in training—focusing on small cases while using Java Spring Boot as my magnifying glass**
 
 - 🌱 I’m currently learning **Java Spring Boot, Laravel, and all about the project needs**
 
 - 👯 I’m looking to collaborate on **innovative software development projects or anything that involves solving interesting technical challenges**
 
-- 🤝 I’m looking for help with **navigating complex technical problems, whether it’s optimizing code, debugging errors that seem impossible to trace, or gaining deeper insights into advanced development practices. A little guidance can go a long way"**
+- 🤝 I’m looking for help with **navigating complex technical problems, whether it’s optimizing code, debugging errors that seem impossible to trace, or gaining deeper insights into advanced development practices. A little guidance can go a long way**
 
-- 📝 I regularly write articles on [https://medium.com/@mishbahussuduri](https://medium.com/@mishbahussuduri)
+- 📝 When inspiration strikes, I enjoy writing articles on [https://medium.com/@mishbahussuduri](https://medium.com/@mishbahussuduri)
 
 - 💬 Ask me about **life**
 
