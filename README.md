@@ -23,14 +23,21 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<table>
+<tr>
+<td align="center">
   <a href="https://linkedin.com/in/mishbahussuduri" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  </td>
+  <td align="center">
   <a href="https://medium.com/@mishbahussuduri" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
 </p>
+</td>
+</tr>
+</table>
 
 ---
 
