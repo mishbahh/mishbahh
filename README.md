@@ -89,7 +89,7 @@
     </td>
     <td align="center">
       <a href="https://postman.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="50" height="50"/>
       </a>
     </td>
     <td align="center">
